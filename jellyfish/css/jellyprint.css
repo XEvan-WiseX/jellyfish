@@ -1,0 +1,14 @@
+@media print {
+
+  html {
+
+    color: black;
+    margin: 0;
+    padding: 0;
+  }
+
+.fancy-script {
+  background-color: unset;
+  }
+
+}
